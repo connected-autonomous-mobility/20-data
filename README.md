@@ -5,6 +5,24 @@ collection of training data
 |----------------:|:-------:|:-----------:|:-----|:-----:|:-:|:----------:|---:|
 | 36              |    9136 | 2 big track | Bosch Athena | Left | 20190413 | Athena2.h5 | [tubhist](https://github.com/connected-autonomous-mobilty/20-data/blob/master/images/tubhist_tub_36_19-04-13.png)|
 
+
+## own data
+```
+(env) rainer@rbnano1:~/mycar/data$ for i in $(find . -maxdepth 1 -type d) ; do echo -n $i": " ; (find $i -type f | wc -l) ; done | sort
+.: 142000
+./tub_16_19-03-10: 21085
+./tub_18_19-03-10: 20435
+./tub_36_19-04-13: 18273
+./tub_6_19-03-09: 25885
+./tub_64_19-06-15: 6841
+./tub_66_19-06-15: 6841
+./tub_67_19-06-15: 6841
+./tub_68_19-06-15: 6841
+./tub_69_19-06-15: 6841
+./tub_9_19-03-09: 22117
+```
+
+
 ### old dataset 
 [Tawn Kramer's big training dataset](https://s3.amazonaws.com/tawn-train/log_donkey/combined_donkey_tub_data.zip)
 
