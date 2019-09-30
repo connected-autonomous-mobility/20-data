@@ -11,6 +11,6 @@ The training data are produced for (Donkey Car)[https://github.com/autorope/donk
 | 19              |  ~11000 | 2 big track (clock wise)| Bosch Solaris Course | All       | 20190929 | none        | none |
 
 ## link to Tawn Kramers collection of training data & models, August 7th, 2019
- [model with 200+k images](https://drive.google.com/open?id=18Qfc_T5fpUmuTqXFZbJZrQhlf2l3S0VK)
+ [model with 200+k images](https://drive.google.com/open?id=18Qfc_T5fpUmuTqXFZbJZrQhlf2l3S0VK) <br>
  [Tawn Kramers's new dataset](https://tawn-train.s3.amazonaws.com/log_donkey/lg_data.tar.gz)
  
