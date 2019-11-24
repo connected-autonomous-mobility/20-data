@@ -23,7 +23,6 @@
 ### 3.2 Nano
 - [ ] deactivate home WIFI on nano
 - [ ] make sure you have enough space on your Nano
-- [ ] acvtivavte
 
 ### 3.3 Driving App
 - [ ] set mobile adress
