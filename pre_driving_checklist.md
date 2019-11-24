@@ -1,31 +1,33 @@
 # pre_driving_checklist.md
 
-## one-time preparation
+## 1 one-time preparation
 - [ ] install a second wifi adapter (like EDIMAX) on Jetson Nano
 - [ ] setup a wifi hotspot on the Jetson Nano
 - [ ] set mode to autoconnect in file /etc/NetworkManager/xxx
 
-## pre-race preparation
+## 2 pre-race preparation
 - [ ] charge all batteries: JS, Nano, Car
 - [ ] check all wires
 - [ ] clean & sort car, check for damages
-- [ ] make sure you have enough space on your Nano
+- [ ] check PWM fine tuning
+- [ ] test drive car
+- [ ] prepare model to drive / train on race day
 
-## before race
+## 3 just before race
 
-## Car
+### 3.1 Car
 - [ ] remove camera cap
 - [ ] switch on car, nano
 - [ ] connect JS
 
-## Nano
-###1. deactivate home WIFI on nano
-###2. acvtivavte
+### 3.2 Nano
+- [ ] deactivate home WIFI on nano
+- [ ] make sure you have enough space on your Nano
+- [ ] acvtivavte
 
-
-## Driving App
+### 3.3 Driving App
 - [ ] set mobile adress
 
-
-
-start Hotspot on IPhone
+### 3.3 iOS devices
+- [ ] start Hotspot on IPhone
+- [ ] connect iPad to Nano via Terminus
