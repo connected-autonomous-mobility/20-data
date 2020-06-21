@@ -13,4 +13,5 @@ The training data are produced for (Donkey Car)[https://github.com/autorope/donk
 ## link to Tawn Kramers collection of training data & models, August 7th, 2019
  [model with 200+k images](https://drive.google.com/open?id=18Qfc_T5fpUmuTqXFZbJZrQhlf2l3S0VK) <br>
  [Tawn Kramers's new dataset](https://tawn-train.s3.amazonaws.com/log_donkey/lg_data.tar.gz)
+ [hogenimushi data set](https://github.com/hogenimushi/donkey_data)
  
